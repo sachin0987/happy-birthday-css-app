@@ -1,13 +1,15 @@
 
 
-# Setup
+# Setups
 
-## If you have python installed:
+1)Install Python 3 
+
+2)
 ```
 cd birthday-app
 ```
 
-&& 
+3) To run the app
 
 ```
 python -m http.server 8000
