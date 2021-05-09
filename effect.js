@@ -131,15 +131,15 @@ $('document').ready(function(){
 		loopSeven();
 		loopEight();
 		loopNine();
-		$(this).fadeOut('slow').delay(5000).promise().done(function(){
+		$(this).fadeOut('slow').delay(4000).promise().done(function(){
 			$('#cake_fadein').fadeIn('slow');
 		});
 	});	
 
 	$('#cake_fadein').click(function(){
 		$('.cake').fadeIn('slow');
-		$(this).fadeOut('slow').delay(3000).promise().done(function(){
-			$('#light_candle').fadeIn('slow');
+		$(this).fadeOut('slow').delay(2000).promise().done(function(){
+			$('#light_candle').fadeIn('fast');
 		});
 	});
 
@@ -195,12 +195,10 @@ $('document').ready(function(){
 				$("p:nth-child(49)").fadeOut('slow').promise().done(function () {
 					$('.cake').fadeIn('fast');
 				});
-				
 			}
 			else{
 				msgLoop(i);
 			}			
-
 		});
 		}
 		msgLoop(0);
