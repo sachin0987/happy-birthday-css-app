@@ -1,15 +1,13 @@
+To run this app you only need to download the code.
 
+And follow the below steps :
 
-# Setups
-
-1)Install Python 3 
-
-2)
+1) Go to the directory 
 ```
 cd birthday-app
 ```
 
-3) To run the app
+2)Execute the below command to run the app {Note: Python will be required}
 
 ```
 python -m http.server 8000
