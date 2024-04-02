@@ -2,7 +2,8 @@ To Run this app follow the below steps :
 
 1) Go to the directory 
 ```
-cd birthday-app
+cd happy-birthday-css-app
+
 ```
 
 2)Execute the below command to run the app {Note: Python3 will be required}
