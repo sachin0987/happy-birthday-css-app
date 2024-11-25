@@ -2,7 +2,7 @@ To Run this app follow the below steps :
 
 1) Go to the directory 
 ```
-cd happy-birthday-css-app
+cd happy-1 year to us-css-app
 
 ```
 
