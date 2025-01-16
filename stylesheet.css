@@ -1,5 +1,5 @@
 body {
-	/*background-color: #f170a6;	*/
+	/*background-color: #FFDAB9;	*/
 	background-color: #000;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
@@ -12,8 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	/* background-image: url("bd1.jpg"); */
-	background-color: #f170a6;
+	background-color: #FFDAB9;
 	
 }
 .peach-after {
@@ -26,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 	25%{
-		background-color: #f170a6;
+		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 	75%{
-		background-color: #f170a6;
+		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 	25%{
-		background-color: #f170a6;
+		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 	75%{
-		background-color: #f170a6;
+		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #ddd5d8;
+		background-color: #FFDAB9;
 	}
 	75%{
-		background-color: #FFE4B5;
+		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #ddd5d8;
+		background-color: #FFDAB9;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 	25%{
 		background-color: #FFE4B5;
 	}
 	50%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 	75%{
 		background-color: #FFEFD5;
 	}
 	100%{
-		background-color: #f170a6;
+		background-color: #FFDAB9;
 	}
 }
 
@@ -1115,16 +1114,6 @@ audio {
 #b7,#b77{
 	background-image: url('b7.png');
 }
-#b8,#b88{
-	background-image: url('b8.png');
-}
-#b9,#b99{
-	background-image: url('b9.png');
-}
-#b10,#b1010{
-	background-image: url('b10.png');
-}
-
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
 	-webkit-transform: rotate(30deg);
